@@ -2,10 +2,10 @@
 
 Файлы в этой папке - неизменяемая локальная копия официально опубликованных данных NYC Taxi & Limousine Commission.
 
-| Локальный файл.                   | Официальный URL.                                                                                                         |      Размер. | SHA-256.                                                            |
-|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------:|---------------------------------------------------------------------|
-| `green_tripdata_2025-01.parquet`. | [Green Taxi Trip Records, January 2025](https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-01.parquet). | 1 178 451 Б. | `84f3a121667157efcbf012c3566a6065df6f8e0312c678cb2f29cd72cc9c0f10`. |
-| `taxi_zone_lookup.csv`.           | [Taxi Zone Lookup Table](https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv).                               |    12 331 Б. | `1a99e105092230f8620f301edcca7f80d3080642ff404d28ed957d3fa222c8ed`. |
+| Локальный файл                   | Официальный URL                                                                                                         |      Размер | SHA-256                                                            |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------:|--------------------------------------------------------------------|
+| `green_tripdata_2025-01.parquet` | [Green Taxi Trip Records, January 2025](https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-01.parquet) | 1 178 451 Б | `84f3a121667157efcbf012c3566a6065df6f8e0312c678cb2f29cd72cc9c0f10` |
+| `taxi_zone_lookup.csv`           | [Taxi Zone Lookup Table](https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv)                               |    12 331 Б | `1a99e105092230f8620f301edcca7f80d3080642ff404d28ed957d3fa222c8ed` |
 
 ## Первичный источник и документация
 
